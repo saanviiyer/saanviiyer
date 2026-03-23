@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computation and Neural Systems undergraduate at Caltech.<br>I'm interested in AI + neuroscience:<br>- Foundation models for the brain<br>- Brain-computer interfaces<br>- Neural signal processing<br>- Multimodal clinical AI
+I'm a Computation and Neural Systems undergraduate student at Caltech interested in AI + neuroscience:<br>- Foundation models for the brain<br>- Brain-computer interfaces<br>- Neural signal processing<br>- Multimodal clinical AI
 
 
 ## 🌐 Socials:
